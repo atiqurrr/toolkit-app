@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Route = () => {
+const ShowBooks = () => {
     return (
         <div>
-            <h1>Route</h1>
+            <h1>ShowBook</h1>
         </div>
     );
 };
 
-export default Route;
+export default ShowBooks;
